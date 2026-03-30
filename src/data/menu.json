@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Cóctel de camarón",
+    "description": "Refrescante cóctel preparado con nuestra receta secreta.",
+    "image": "/coctelcamaron.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chicharrones preparados",
+    "description": "El clásico chicharrón con cueritos, col, jitomate, crema y salsa.",
+    "image": "/chicharron.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Maruchan loka",
+    "description": "Sopa Maruchan con elotes, queso, limón y salsa a tu gusto.",
+    "image": "/maruchanloca.png"
+  },
+  {
+    "id": 4,
+    "name": "Totilokos",
+    "description": "Deliciosa mezcla de tostitos, cacahuates, jícama, cueritos y más.",
+    "image": "/tostiloco.png"
+  },
+  {
+    "id": 5,
+    "name": "Esquite",
+    "description": "Elote desgranado con mayonesa, queso cotija y el chilito de tu elección.",
+    "image": "/esquite.png"
+  },
+  {
+    "id": 6,
+    "name": "Elotes preparados",
+    "description": "Elotes bañados en mayonesa, queso cotija y el chilito de tu elección.",
+    "image": "/elotepreparado.png"
+  },
+  {
+    "id": 7,
+    "name": "Fresas con crema",
+    "description": "Dulces fresas frescas envueltas en nuestra suave crema especial.",
+    "image": "/fresasconcrema.png"
+  },
+  {
+    "id": 8,
+    "name": "Banana split",
+    "description": "Clásico postre helado con plátano, helado, crema y cerezas.",
+    "image": "/bananasplit.png"
+  },
+  {
+    "id": 9,
+    "name": "Aguas frescas",
+    "description": "Aguas de frutas naturales para refrescarte.",
+    "image": "/bebidasrefrescante.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Piñas lokas",
+    "description": "Media piña rellena de trozos de fruta, chamoy, miguelito y tamarindos.",
+    "image": "/piñaloca.png"
+  },
+  {
+    "id": 11,
+    "name": "Y muchos antojitos mas",
+    "description": "Visítanos y descubre todas las delicias que te esperan.",
+    "image": "https://placehold.co/600x400/795548/FFF?text=Más+antojitos"
+  }
+]

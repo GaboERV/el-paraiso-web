@@ -1,0 +1,20 @@
+{
+  "name": "El Paraíso Frutería y más",
+  "phones": [
+    { "label": "Local", "number": "(229) 520-8984", "tel": "+12295208984" }
+  ],
+  "address": {
+    "street": "250 Oak St",
+    "city": "Omega",
+    "state": "GA",
+    "zip": "31775",
+    "country": "United States",
+    "full": "250 Oak St, Omega, GA, United States, 31775"
+  },
+  "hours": "Estamos para servirles hasta las 8:00 pm",
+  "socials": {
+    "instagram": "@elparaiso_03",
+    "facebook": "@elparaiso03"
+  },
+  "welcomeMessage": "Hola muy buenas tardes mis queridos clientes y amigos. Feliz Domingo familiar. Vengan a Disfrutar de nuestros deliciosos antojitos con su familia."
+}
