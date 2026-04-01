@@ -3,66 +3,77 @@
     "id": 1,
     "name": "Cóctel de camarón",
     "description": "Refrescante cóctel preparado con nuestra receta secreta.",
-    "image": "/coctelcamaron.jpg"
+    "image": "/coctelcamaron.jpg",
+    "ingredients": ["Camarón fresco", "Salsa secreta", "Aguacate", "Tomate", "Cebolla", "Cilantro"]
   },
   {
     "id": 2,
     "name": "Chicharrones preparados",
     "description": "El clásico chicharrón con cueritos, col, jitomate, crema y salsa.",
-    "image": "/chicharron.jpg"
+    "image": "/chicharron.jpg",
+    "ingredients": ["Chicharrón de harina", "Cueritos", "Col", "Jitomate", "Crema agria", "Salsa picante"]
   },
   {
     "id": 3,
     "name": "Maruchan loka",
     "description": "Sopa Maruchan con elotes, queso, limón y salsa a tu gusto.",
-    "image": "/maruchanloca.png"
+    "image": "/maruchanloca.png",
+    "ingredients": ["Sopa tazón", "Elote", "Queso amarillo", "Limón", "Salsa", "Cueritos"]
   },
   {
     "id": 4,
     "name": "Totilokos",
     "description": "Deliciosa mezcla de tostitos, cacahuates, jícama, cueritos y más.",
-    "image": "/tostiloco.png"
+    "image": "/tostiloco.png",
+    "ingredients": ["Tostitos", "Cacahuates japoneses", "Jícama", "Cueritos", "Chamoy", "Salsa", "Limón"]
   },
   {
     "id": 5,
     "name": "Esquite",
     "description": "Elote desgranado con mayonesa, queso cotija y el chilito de tu elección.",
-    "image": "/esquite.png"
+    "image": "/esquite.png",
+    "ingredients": ["Elote desgranado", "Mayonesa", "Queso cotija", "Chile en polvo", "Limón"]
   },
   {
     "id": 6,
     "name": "Elotes preparados",
     "description": "Elotes bañados en mayonesa, queso cotija y el chilito de tu elección.",
-    "image": "/elotepreparado.png"
+    "image": "/elotepreparado.png",
+    "ingredients": ["Elote tierno", "Mayonesa", "Queso cotija", "Chile en polvo"]
   },
   {
     "id": 7,
     "name": "Fresas con crema",
     "description": "Dulces fresas frescas envueltas en nuestra suave crema especial.",
-    "image": "/fresasconcrema.png"
+    "image": "/fresasconcrema.png",
+    "ingredients": ["Fresas rebanadas", "Crema artesanal", "Leche condensada", "Canela"]
   },
   {
     "id": 8,
     "name": "Banana split",
     "description": "Clásico postre helado con plátano, helado, crema y cerezas.",
-    "image": "/bananasplit.png"
+    "image": "/bananasplit.png",
+    "ingredients": ["Plátano", "3 Bolas de Helado", "Crema batida", "Cerezas", "Chocolate", "Chispas"]
   },
   {
     "id": 9,
     "name": "Aguas frescas",
     "description": "Aguas de frutas naturales para refrescarte.",
-    "image": "/bebidasrefrescante.jpg"
+    "image": "/bebidasrefrescante.jpg",
+    "ingredients": ["Frutas de temporada", "Agua purificada", "Hielo"]
   },
   {
     "id": 10,
     "name": "Piñas lokas",
     "description": "Media piña rellena de trozos de fruta, chamoy, miguelito y tamarindos.",
-    "image": "/piñaloca.png"
+    "image": "/piñaloca.png",
+    "ingredients": ["Piña fresca", "Trozos de fruta", "Chamoy", "Miguelito", "Gomitas", "Banderilla de tamarindo"]
   },
   {
     "id": 11,
     "name": "Y muchos antojitos mas",
     "description": "Visítanos y descubre todas las delicias que te esperan.",
-    "image": "https://placehold.co/600x400/795548/FFF?text=Más+antojitos"
+    "image": "https://placehold.co/600x400/795548/FFF?text=Más+antojitos",
+    "ingredients": []
   }
 ]
