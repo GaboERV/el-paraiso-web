@@ -11,69 +11,76 @@
     "name": "Chicharrones preparados",
     "description": "El clásico chicharrón con cueritos, col, jitomate, crema y salsa.",
     "image": "/chicharron.jpg",
-    "ingredients": ["Chicharrón de harina", "Cueritos", "Col", "Jitomate", "Crema agria", "Salsa picante"]
+    "ingredients": ["Mayonesa", "Repollo", "Cueritos", "Crema", "Queso en polvo", "Aguacate", "Salsa al gusto"]
   },
   {
     "id": 3,
     "name": "Maruchan loka",
     "description": "Sopa Maruchan con elotes, queso, limón y salsa a tu gusto.",
     "image": "/maruchanloca.png",
-    "ingredients": ["Sopa tazón", "Elote", "Queso amarillo", "Limón", "Salsa", "Cueritos"]
+    "ingredients": ["Maruchan", "Elote", "Mayonesa", "Queso en polvo", "Queso amarillo", "Crema"]
   },
   {
     "id": 4,
-    "name": "Totilokos",
-    "description": "Deliciosa mezcla de tostitos, cacahuates, jícama, cueritos y más.",
+    "name": "Tostilokos Original",
+    "description": "El original de la casa con la sabrita de tu preferencia y nuestra mezcla especial.",
     "image": "/tostiloco.png",
-    "ingredients": ["Tostitos", "Cacahuates japoneses", "Jícama", "Cueritos", "Chamoy", "Salsa", "Limón"]
+    "ingredients": ["Sabrita de tu preferencia", "Queso amarillo", "Maíz", "Repollo", "Cueritos", "Crema", "Queso en polvo", "Cacahuates", "Salsa al gusto"]
   },
   {
     "id": 5,
     "name": "Esquite",
     "description": "Elote desgranado con mayonesa, queso cotija y el chilito de tu elección.",
     "image": "/esquite.png",
-    "ingredients": ["Elote desgranado", "Mayonesa", "Queso cotija", "Chile en polvo", "Limón"]
+    "ingredients": ["Maíz", "Mayonesa", "Mantequilla", "Limón", "Queso en polvo", "Chile en polvo al gusto"]
   },
   {
     "id": 6,
+    "name": "Tosti Esquite",
+    "description": "La combinación perfecta entre esquite y tostitos, bañada en quesos.",
+    "image": "/image copy 2.png",
+    "ingredients": ["Queso amarillo", "Maíz", "Mayonesa", "Queso en polvo", "Crema", "Salsa al gusto"]
+  },
+  {
+    "id": 7,
+    "name": "Tostito Tropical 🌴",
+    "description": "Refrescante variante tropical con frutas de temporada y tamarindo.",
+    "image": "/image.png",
+    "ingredients": ["Pepinos", "Jícama", "Cueritos", "Limón", "Chamoy", "Dulces de tamarindo", "Salsa al gusto"]
+  },
+  {
+    "id": 8,
     "name": "Elotes preparados",
     "description": "Elotes bañados en mayonesa, queso cotija y el chilito de tu elección.",
     "image": "/elotepreparado.png",
     "ingredients": ["Elote tierno", "Mayonesa", "Queso cotija", "Chile en polvo"]
   },
   {
-    "id": 7,
+    "id": 9,
     "name": "Fresas con crema",
     "description": "Dulces fresas frescas envueltas en nuestra suave crema especial.",
     "image": "/fresasconcrema.png",
     "ingredients": ["Fresas rebanadas", "Crema artesanal", "Leche condensada", "Canela"]
   },
   {
-    "id": 8,
+    "id": 10,
     "name": "Banana split",
     "description": "Clásico postre helado con plátano, helado, crema y cerezas.",
     "image": "/bananasplit.png",
     "ingredients": ["Plátano", "3 Bolas de Helado", "Crema batida", "Cerezas", "Chocolate", "Chispas"]
   },
   {
-    "id": 9,
+    "id": 11,
     "name": "Aguas frescas",
     "description": "Aguas de frutas naturales para refrescarte.",
     "image": "/bebidasrefrescante.jpg",
     "ingredients": ["Frutas de temporada", "Agua purificada", "Hielo"]
   },
   {
-    "id": 10,
+    "id": 12,
     "name": "Piñas lokas",
     "description": "Media piña rellena de trozos de fruta, chamoy, miguelito y tamarindos.",
     "image": "/piñaloca.png",
     "ingredients": ["Piña fresca", "Trozos de fruta", "Chamoy", "Miguelito", "Gomitas", "Banderilla de tamarindo"]
-  },
-  {
-    "id": 11,
-    "name": "Y muchos antojitos mas",
-    "description": "Visítanos y descubre todas las delicias que te esperan.",
-    "image": "https://placehold.co/600x400/795548/FFF?text=Más+antojitos",
-    "ingredients": []
   }
 ]
