@@ -9,7 +9,7 @@
   {
     "id": 2,
     "name": "Chicharrones preparados",
-    "description": "El clásico chicharrón con cueritos, col, jitomate, crema y salsa.",
+    "description": "El clásico chicharrón con cueritos, crema y salsa.",
     "image": "/chicharron.jpg",
     "ingredients": ["Mayonesa", "Repollo", "Cueritos", "Crema", "Queso en polvo", "Aguacate", "Salsa al gusto"]
   },
@@ -18,7 +18,7 @@
     "name": "Maruchan loka",
     "description": "Sopa Maruchan con elotes, queso, limón y salsa a tu gusto.",
     "image": "/maruchanloca.png",
-    "ingredients": ["Maruchan", "Elote", "Mayonesa", "Queso en polvo", "Queso amarillo", "Crema"]
+    "ingredients": ["Maruchan", "Elote", "Mayonesa", "Queso en polvo", "Queso amarillo", "Crema", "Sabrita de tu preferencia"]
   },
   {
     "id": 4,
@@ -53,14 +53,14 @@
     "name": "Elotes preparados",
     "description": "Elotes bañados en mayonesa, queso cotija y el chilito de tu elección.",
     "image": "/elotepreparado.png",
-    "ingredients": ["Elote tierno", "Mayonesa", "Queso cotija", "Chile en polvo"]
+    "ingredients": ["Elote tierno", "Mayonesa", "Queso cotija", "Chile en polvo", "Sabrita de tu preferencia"]
   },
   {
     "id": 9,
     "name": "Fresas con crema",
     "description": "Dulces fresas frescas envueltas en nuestra suave crema especial.",
     "image": "/fresasconcrema.png",
-    "ingredients": ["Fresas rebanadas", "Crema artesanal", "Leche condensada", "Canela"]
+    "ingredients": ["Fresas rebanadas", "Crema artesanal", "Leche condensada"]
   },
   {
     "id": 10,
@@ -79,8 +79,50 @@
   {
     "id": 12,
     "name": "Piñas lokas",
-    "description": "Media piña rellena de trozos de fruta, chamoy, miguelito y tamarindos.",
+    "description": "Piña rellena de trozos de fruta, chamoy, miguelito y tamarindos.",
     "image": "/piñaloca.png",
     "ingredients": ["Piña fresca", "Trozos de fruta", "Chamoy", "Miguelito", "Gomitas", "Banderilla de tamarindo"]
+  },
+  {
+    "id": 13,
+    "name": "Cueritos Lokos",
+    "description": "¡Nuestros crujientes cueritos preparados para un antojo picoso!",
+    "image": "/cueritoslokos.png",
+    "ingredients": ["Cueritos", "Pepinos", "Cacahuates", "Chilito", "Limón"]
+  },
+  {
+    "id": 14,
+    "name": "Concha Rellena",
+    "description": "Increíble y dulce concha gourmet rellena de un festín helado.",
+    "image": "/concharellena.png",
+    "ingredients": ["Nieve", "Fresa", "Plátano", "Nutella"]
+  },
+  {
+    "id": 15,
+    "name": "Frappés",
+    "description": "Dulces batidos de hielo con sabores irresistibles y crema batida.",
+    "image": "/frappes.png",
+    "ingredients": ["Mocha", "Vanilla & Caramel", "Chocolate Cream Cookies", "Mazapán de la Rosa"]
+  },
+  {
+    "id": 16,
+    "name": "Chamoyadas",
+    "description": "Bebida ultra refrescante frappé cubierta con el chamoy tradicional de la casa.",
+    "image": "/chamoyada.png",
+    "ingredients": ["Hielo frappé", "Chamoy", "Tamarindo", "Limón", "Chilito"]
+  },
+  {
+    "id": 17,
+    "name": "Smoothies Naturales",
+    "description": "Batidos puros elaborados con combinaciones de las mejores frutas frescas.",
+    "image": "/smoothies.png",
+    "ingredients": ["Mango", "Piña", "Mango-Piña", "Fresa-Plátano", "Fresa", "Triple Berry"]
+  },
+  {
+    "id": 18,
+    "name": "Papitas Lokas",
+    "description": "Explosión de sabor crujiente bañado en nuestras salsas especiales.",
+    "image": "/papitaslokas.png",
+    "ingredients": ["Variedad de Sabritas", "Limón", "Chamoy", "Salsa picosita", "Cacahuates", "Dulces de tamarindo"]
   }
 ]
