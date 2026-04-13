@@ -109,7 +109,7 @@
     "name": "Chamoyadas",
     "description": "Bebida ultra refrescante frappé cubierta con el chamoy tradicional de la casa.",
     "image": "/chamoyada.png",
-    "ingredients": ["Hielo frappé", "Chamoy", "Tamarindo", "Limón", "Chilito"]
+    "ingredients": ["Hielo raspado", "Chamoy", "Tamarindo", "Limón", "Chilito"]
   },
   {
     "id": 17,
