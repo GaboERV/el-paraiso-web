@@ -114,7 +114,7 @@
   {
     "id": 17,
     "name": "Smoothies Naturales",
-    "description": "Batidos puros elaborados con combinaciones de las mejores frutas frescas.",
+    "description": "Batidos elaborados con fruta natural.",
     "image": "/smoothies.png",
     "ingredients": ["Mango", "Piña", "Mango-Piña", "Fresa-Plátano", "Fresa", "Triple Berry"]
   },
